@@ -1,0 +1,54 @@
+Spectrum Ver 3.0
+
+Version 4.0 [Under Test]
+---------------------------------------
+
+Planning to link with Winamp.
+
+
+Version 3.0 (26-june-2000]
+
++Peaks Falling Code Added
++Bars Falling Code Added
++Flickering Bug Removed
+
+Version 2.0 [10-march-2000]
+
++Changed the paintpicture method to Api
++Optimized for higher fps
++Bargap And Barwidth Added
++Peaks Added
++Double Side bar + peaks
++Done with bitmap support
+
+version 1.0 [beta] [10-december-1999]
+
++ First release of Spectrum
+
+(((((((((((((((((((((((((((((((((((((( Author Note ))))))))))))))))))))))))))))))
+
+By Imthiaz And Samuel
+
+Try Changing the Five Bitmaps And Save it in the App Path
+
+1. barsup.bmp
+2. barsdown.bmp
+3. dotsup.bmp
+4. dotsdown.bmp
+5. peaks.bmp
+
+
+If you want the Source Please email me i will send you the code within 
+three to five days the latest code available
+
+with subject : Spectrum Code
+
+	url:
+		http://brainfusion.gq.nu/
+			 [sorry under construction](in future)
+
+	Email : 
+		imthiazrafiq@hotmail.com
+		sjsfusion@yahoo.com
+
+((((((((((((((((((((((((((((((((((((((-----------------------))))))))))))))))))))))))))))))))))))))))))))))))))))
